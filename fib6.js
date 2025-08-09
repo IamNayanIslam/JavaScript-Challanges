@@ -38,3 +38,5 @@ function fibonacciModulo(n, m) {
 }
 
 console.log(fibonacciModulo(10, 3));
+console.log(fibonacciModulo(15, 7));
+console.log(fibonacciModulo(50, 9));
